@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+}
+
+header {
+    background-color: black;
+    height: 100px;
+}
+
+h1 {
+    color: red;
+    
+    height: 60px;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+div {
+    border: solid 1px red;
+    width: 500px;
+    border-radius: 10px;
+}
+
+img {
+    width: 500px;
+    border-radius: 10px;
+}
+
+figcaption {
+    color: red;
+    font-size: 30px;
+}
+
+
+
+
